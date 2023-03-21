@@ -1,0 +1,1 @@
+﻿This file is placed so that StreamingAssets directory is created in the build.
